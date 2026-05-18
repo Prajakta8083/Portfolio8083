@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "title": "Understanding the DOM Rendering Flow",
+        "summary": "A deep dive into how browsers turn HTML into pixels.",
+        "date": "2024-01-15",
+        "content": "Full content would go here. The Critical Rendering Path is the sequence of steps the browser goes through to convert the HTML, CSS, and JavaScript into pixels on the screen...",
+        "tags": [
+            "Performance",
+            "Browser"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Why I chose Vanilla JS for this Portfolio",
+        "summary": "Exploring the benefits of no-build architecture.",
+        "date": "2024-02-01",
+        "content": "In an era of heavy frameworks, going back to basics teaches you a lot about the platform...",
+        "tags": [
+            "JavaScript",
+            "No-Framework"
+        ]
+    }
+]

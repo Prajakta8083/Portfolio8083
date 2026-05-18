@@ -1,0 +1,48 @@
+:root {
+  /* Core Palette */
+  --bg-core: #0a0a0c;
+  --bg-card: #131316;
+  --bg-input: #1c1c21;
+
+  --text-main: #ffffff;
+  --text-muted: #a0a0a0;
+  --text-dim: #606060;
+
+  /* Accents */
+  --accent-primary: #55e6a5;
+  /* Zyan Mint Green */
+  --accent-secondary: #ffffff;
+  --accent-glow: rgba(85, 230, 165, 0.2);
+
+  /* Status */
+  --success: #00ff9d;
+  --error: #ff4d4d;
+  --warning: #ffcc00;
+
+  /* Typography */
+  --font-ui: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-code: 'Fira Code', 'Courier New', monospace;
+
+  /* Spacing */
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 2rem;
+  --space-lg: 4rem;
+  --space-xl: 8rem;
+
+  /* Borders & Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --border-light: 1px solid rgba(255, 255, 255, 0.1);
+  --border-accent: 1px solid var(--accent-primary);
+
+  /* Transitions */
+  --ease-smooth: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --duration-fast: 200ms;
+  --duration-medium: 400ms;
+}
+
+[data-theme="light"] {
+  /* Invert logic for light mode if requested later, 
+     but forcing dark for "Developer Centric" theme initially */
+}
