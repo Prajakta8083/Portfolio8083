@@ -1,0 +1,32 @@
+[
+    {
+        "id": "portfolio-v1",
+        "title": "Personal Portfolio",
+        "description": "A dark-themed, developer-centric portfolio website built with Vanilla JS and a custom Node-based content engine.",
+        "tech": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "demo": "#",
+            "repo": "#"
+        },
+        "featured": true
+    },
+    {
+        "id": "task-manager",
+        "title": "Task AI",
+        "description": "Smart task management application using AI to prioritize daily headers.",
+        "tech": [
+            "React",
+            "Firebase",
+            "OpenAI API"
+        ],
+        "links": {
+            "demo": "#",
+            "repo": "#"
+        },
+        "featured": false
+    }
+]

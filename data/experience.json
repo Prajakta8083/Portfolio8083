@@ -1,0 +1,14 @@
+[
+    {
+        "role": "Frontend Developer Intern",
+        "company": "Tech Solutions Inc.",
+        "period": "Jan 2023 - Present",
+        "description": "Building responsive UI components using React and Tailwind CSS. Optimizing bundle size and performance."
+    },
+    {
+        "role": "Freelance Web Developer",
+        "company": "Self-Employed",
+        "period": "2021 - 2023",
+        "description": "Delivered 5+ custom websites for local businesses. Managed deployment and SEO optimization."
+    }
+]

@@ -1,0 +1,70 @@
+{
+    "title": "Cloud Engineering Journey",
+    "summary": "Deploying scalable, resilient applications using modern cloud infrastructure.",
+    "projects": [
+        {
+            "id": "cloud-portfolio",
+            "title": "Personal Portfolio",
+            "description": "Hosted on Vercel with automatic CI/CD pipelines from GitHub. Optimized for performance and global edge delivery.",
+            "platform": "Vercel",
+            "services": [
+                "CI/CD",
+                "Edge Network",
+                "Global CDN"
+            ],
+            "status": "Live",
+            "links": {
+                "demo": "https://prajakta.dev",
+                "repo": "https://github.com/Prajakta8083/Portfolio"
+            }
+        },
+        {
+            "id": "aws-serverless-api",
+            "title": "Serverless Task API",
+            "description": "A RESTful API built with AWS Lambda and API Gateway to handle task management logic without provisioning servers.",
+            "platform": "AWS",
+            "services": [
+                "Lambda",
+                "API Gateway",
+                "DynamoDB"
+            ],
+            "status": "Live",
+            "links": {
+                "demo": "#",
+                "repo": "https://github.com/Prajakta8083/serverless-api"
+            }
+        },
+        {
+            "id": "docker-microservices",
+            "title": "Microservices Cluster",
+            "description": "Containerized feature services orchestrated with Kubernetes for high availability and fault tolerance.",
+            "platform": "GCP",
+            "services": [
+                "Docker",
+                "Kubernetes",
+                "GKE"
+            ],
+            "status": "In Progress",
+            "links": {
+                "demo": null,
+                "repo": "https://github.com/Prajakta8083/microservices-demo"
+            }
+        },
+        {
+            "id": "firebase-auth-app",
+            "title": "Secure Auth System",
+            "description": "Implemented robust user authentication and real-time database syncing using Firebase.",
+            "platform": "Firebase",
+            "services": [
+                "Authentication",
+                "Realtime DB",
+                "Firestore"
+            ],
+            "status": "Live",
+            "links": {
+                "demo": "#",
+                "repo": "https://github.com/Prajakta8083/firebase-auth"
+            }
+        }
+    ]
+}

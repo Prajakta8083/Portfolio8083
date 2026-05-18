@@ -1,0 +1,14 @@
+{
+  "name": "Prajakta Zanzane",
+  "title": "Frontend Developer & Cloud Enthusiast",
+  "tagline": "Building digital experiences with code and curiosity.",
+  "about": {
+    "summary": "I am a Computer Engineer driven by a relentless curiosity to understand how complex systems scale, perform, and interact. Beyond writing code, I focus on engineering robust solutions that prioritize performance, security, and user trust.",
+    "details": "My technical approach is rooted in systems thinking—analyzing the broader impact of every architectural decision. While my core expertise lies in full-stack web development and backend fundamentals, I am actively expanding into cloud infrastructure and Artificial Intelligence. I believe in the responsible and ethical integration of AI, ensuring that innovation never comes at the cost of reliability or human values. Whether optimizing database queries or designing secure APIs, I am committed to building software that stands the test of time."
+  },
+  "contact": {
+    "email": "prajakta@example.com",
+    "github": "https://github.com/Prajakta8083",
+    "linkedin": "https://linkedin.com/in/prajakta"
+  }
+}
